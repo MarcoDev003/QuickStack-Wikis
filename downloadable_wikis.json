@@ -1,8 +1,22 @@
-{
-  "wikis": [
-    {
-      "name": "wiktionary",
-      "url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "NextUI Library",
+    "image": "https://nextui.org/images/hero-card.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "React Framework",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+  },
+  {
+    "id": "3",
+    "name": "Vue.js Framework",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
+  },
+  {
+    "id": "4",
+    "name": "Angular Framework",
+    "image": "https://angular.io/assets/images/logos/angular/angular.svg"
+  }
+]
