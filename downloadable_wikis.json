@@ -1,22 +1,17 @@
 [
   {
-    "id": "1",
+    "id": "0",
     "name": "NextUI Library",
-    "image": "https://nextui.org/images/hero-card.jpeg"
-  },
-  {
-    "id": "2",
-    "name": "React Framework",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-  },
-  {
-    "id": "3",
-    "name": "Vue.js Framework",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-  },
-  {
-    "id": "4",
-    "name": "Angular Framework",
-    "image": "https://angular.io/assets/images/logos/angular/angular.svg"
+    "image": "https://nextui.org/images/hero-card.jpeg",
+    "vers": [
+      {
+        "name": "1.5.6",
+        "url": "https://nextui.org/docs/installation/next-js"
+      },
+      {
+        "name": "1.5.9",
+        "url": "https://nextui.org/docs/installation/next-js"
+      }
+    ]
   }
 ]
