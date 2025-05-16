@@ -11,57 +11,5 @@
         "url": "https://nextui.org/docs/installation/next-js"
       }
     }
-  },
-  {
-    "id": "1",
-    "name": "HeroUI Library",
-    "image": "https://nextui.org/images/hero-card.jpeg",
-    "vers": {
-      "1.9.10" : {
-        "url": "https://nextui.org/docs/installation/next-js"
-      },
-      "1.9.11": {
-        "url": "https://nextui.org/docs/installation/next-js"
-      }
-    }
-  },
-  {
-    "id": "2",
-    "name": "ShadCN Library",
-    "image": "https://nextui.org/images/hero-card.jpeg",
-    "vers": {
-      "1.9.10" : {
-        "url": "https://nextui.org/docs/installation/next-js"
-      },
-      "1.9.11": {
-        "url": "https://nextui.org/docs/installation/next-js"
-      }
-    }
-  },
-  {
-    "id": "3",
-    "name": "TailwindUI Library",
-    "image": "https://nextui.org/images/hero-card.jpeg",
-    "vers": {
-      "1.9.10" : {
-        "url": "https://nextui.org/docs/installation/next-js"
-      },
-      "1.9.11": {
-        "url": "https://nextui.org/docs/installation/next-js"
-      }
-    }
-  },
-  {
-    "id": "4",
-    "name": "Flowbite Library",
-    "image": "https://nextui.org/images/hero-card.jpeg",
-    "vers": {
-      "1.9.10" : {
-        "url": "https://nextui.org/docs/installation/next-js"
-      },
-      "1.9.11": {
-        "url": "https://nextui.org/docs/installation/next-js"
-      }
-    }
   }
 ]
